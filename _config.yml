@@ -9,10 +9,10 @@ theme                    : "minimal-mistakes-jekyll"
 
 # Site Settings
 locale                   : "en"
-title                    : "dev_MM"
+title                    : "Cain Road Neighborhood Association CRANA"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "Minimal Mistakes theme test."
+name                     : "Richee"
+description              : "Cain Road Neighborhood Association of Olympia, WA"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/test"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "mmistakes"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -79,10 +79,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Richee"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : #"I am an amazing person."
+  location         : #"Somewhere"
   email            :
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "mmistakes"
+  twitter          : #"mmistakes"
   vine             :
   weibo            :
   xing             :
