@@ -15,7 +15,7 @@ Meetings are held annually in January.
 * 835 households
 * 2 Parks ([Watershed](http://olympiawa.gov/city-services/parks/parks-and-trails/watershed-park.aspx) and [McGrath Woods](http://olympiawa.gov/city-services/parks/parks-and-trails/mcgrath-woods-park.aspx))
 * 1 School ([Washington Middle School](http://washington.osd.wednet.edu/))
-* 2 Churches
+* 3 Churches
 * A Fire Station
 * A Senior Care Facility
 
