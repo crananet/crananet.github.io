@@ -8,11 +8,12 @@ layout: default
 
 
 	<div class="related">
+	  <h3>Learn More</h3>
 	  <ul class="related-posts">
 		{% for node in site.pages %}
 			{% if node.title != null %}
 			  {% if node.category == page.category_title %}
-			    <li><h3><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></h3></li>
+			    <li><h3><a class="noline sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></h3></li>
 			  {% endif %}
 			{% endif %}
 		{% endfor %}

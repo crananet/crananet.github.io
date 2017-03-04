@@ -17,6 +17,3 @@ It's fun to take part in CRANA events. You'll get to meet your neighbors, learn 
 * Be prepared for emergencies and [Map Your Neighborhood](http://mil.wa.gov/emergency-management-division/preparedness/map-your-neighborhood)
 * Drive slow, be friendly, and respect your neighbors
 * Get involved with other [neighborhood programs](http://olympiawa.gov/city-services/neighborhood-programs.aspx)
-
-
-

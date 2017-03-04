@@ -3,20 +3,20 @@
 
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}">
+        <a class="noline" href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
       </h1>
-      <img src="/public/crana3.png" alt="CRANA">
+      <a href="{{ site.baseurl }}"><img src="/public/crana3.png" alt="CRANA"></a>
 
       <p class="lead">{{ site.description }}</p>
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == '/association/' %} active{% endif %}" href="/association">Association Information</a>
-      <a class="sidebar-nav-item{% if page.url == '/activities/' %} active{% endif %}" href="/activities">Activities and Events</a>
-      <a class="sidebar-nav-item{% if page.url == '/articles/' %} active{% endif %}" href="/articles">Articles</a>
-      <a class="sidebar-nav-item" href="https://crana.nextdoor.com">Connect on Nextdoor</a>
+      <a class="noline sidebar-nav-item{% if page.url == '/association/' %} active{% endif %}" href="/association">Association Information</a>
+      <a class="noline sidebar-nav-item{% if page.url == '/activities/' %} active{% endif %}" href="/activities">Activities and Events</a>
+      <a class="noline sidebar-nav-item{% if page.url == '/articles/' %} active{% endif %}" href="/articles">Articles</a>
+      <a class="noline sidebar-nav-item" href="https://crana.nextdoor.com">Connect on Nextdoor</a>
 
     </nav>
 
