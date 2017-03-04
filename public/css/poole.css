@@ -75,6 +75,9 @@ a strong {
 .noline {
   text-decoration: none;
 }
+.text-muted {
+	  color: #777;
+}
 a
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
