@@ -17,7 +17,8 @@ Pam Smith<br>
 Mark Dahlen<br>
 Irene Lewis<br>
 MaryBeth Cline<br>
-Karl Kirker
+Karl Kirker<br>
+Cindi Brigden
 
 ### Meeting Minutes
 
