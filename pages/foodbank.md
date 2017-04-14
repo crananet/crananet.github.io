@@ -3,7 +3,7 @@ layout: page
 title: Thurston County Food Project
 category: activities
 ---
-To date, CRANA residents have donated over **$190,000** in food to the Thurston County Food Bank. 
+To date, CRANA residents have donated over **$200,000** in food to the Thurston County Food Bank. 
 
 To participate, simply place food donations in a green bag on your front porch on the morning of a pick up date and a volunteer will come collect it. Don't have a green bag? <a href='&#109;&#97;&#105;lto&#58;m&#98;%5&#70;c%6C&#105;n&#101;&#64;&#99;%6F%6Dc%61&#115;&#37;74&#46;n&#101;t'>E-mail us</a> and we'll get you one!
 
@@ -20,7 +20,7 @@ Oct 14<br>
 Dec 9
 </h4>
 
-Thanks to the residents of CRANA, the December food drive brought in **$5,502** worth of food! Thank you to everyone who made that possible!
+Thanks to the residents of CRANA, the April food drive brought in **$5,620** worth of food! Combined with the other neighborhoods there was $10,904 worth of food donated on that day. Thank you to everyone who made that possible!
 
 ![Food Project](/public/fooddrive2.jpg)
 
@@ -28,13 +28,16 @@ We need Neighborhood Coordinators.  To be one, simply organize a few (one or mor
 
 Not sure what food to give? The food bank will take almost any kind of non-perishable food items. Here are some ideas for things to get for each month.
 
-* December - Canned protein (tuna, chicken, stews, spam, etc. lentils, beans, peanut butter)
 * February - Canned fruit
 * April - Canned soups-don’t forget vegetarians
 * June - PB/Mac and cheese, quick summer kid lunches
 * August - Backpack program-stocking up for back to school bags-easy open.
 * October - Canned pumpkin and canned sweet potatoes
+* December - Canned protein (tuna, chicken, stews, spam, etc. lentils, beans, peanut butter)
 
+
+### Project Information 
+The Thurston County Food Project is a community driven project with a purpose of collecting food for the Thurston County Food Bank. The difference between the Food Project and Food Bank is the Food Project does the collecting of the food, while the Food Bank stores it and distributes it to those who need it. The Food Bank gets food donations from other sources besides the Food Project such as in store containers and the once yearly mail carrier food drive. The Food Project holds a food drive every 2 months and collects the food from front doorsteps of homes in the Thurston county area.
 
 
 To learn more, sign up to be a volunteer, or ask questions, e-mail <a href='&#109;&#97;&#105;lto&#58;m&#98;%5&#70;c%6C&#105;n&#101;&#64;&#99;%6F%6Dc%61&#115;&#37;74&#46;n&#101;t'>&#77;aryBet&#104;</a>.
