@@ -22,7 +22,8 @@ Dec 9
 
 Thanks to the residents of CRANA, the April food drive brought in **$5,620** worth of food! Combined with the other neighborhoods there was $10,904 worth of food donated on that day. Thank you to everyone who made that possible!
 
-![Food Project](/public/fooddrive2.jpg)
+<img src="/public/fooddrive2.jpg" alt="Thurston County Food Project">
+
 
 We need Neighborhood Coordinators.  To be one, simply organize a few (one or more) of your neighbors as participants, get bags from the Steering Committee and let your folks know of the pick up schedule, then pick up and deliver the bags on the day of collection.  This takes less than one hour every two months and is a valuable and fun service. 
 

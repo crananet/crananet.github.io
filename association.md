@@ -6,7 +6,7 @@ category_title: association
 
 The Association was established in 1991 and is a [Recognized Neighborhood Association](http://olympiawa.gov/city-services/neighborhood-programs/neighborhood-recognition-program/neighborhood-association-roster.aspx) with the City of Olympia. 
 
-[Association bylaws](/public/docs/CRANA Bylaws Amended 2005.pdf)
+<a href="/public/docs/CRANA Bylaws Amended 2005.pdf">Association bylaws</a>
 
 Meetings are held annually in January.
 
@@ -21,5 +21,5 @@ Meetings are held annually in January.
 
 ### CRANA Map
 
-![CRANA Map](/public/map.png)
+<img src="/public/map.png" alt="CRANA MAP">
 
