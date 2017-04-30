@@ -22,5 +22,12 @@
       ga('send', 'pageview');
 
     </script>
+
+
+    {% if page.js %}
+      <!-- jQuery -->
+      <script src="/public/js/jquery.min.js"></script>
+      <script src="/public/js/{{ page.js }}"></script>
+    {% endif %}
   </body>
 </html>
