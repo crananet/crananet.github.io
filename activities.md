@@ -7,7 +7,7 @@ category_title: activities
 
 It's fun to take part in CRANA events. You'll get to meet your neighbors, learn what's going on, and help improve the neighborhood. Here are some activities you can participate in:
 
-* [Thurston County Food Project](/pages/foodbank/) 
+* [Thurston County Food Project](/pages/foodproject/) 
 * Help improve and maintain our parks and become a [Park Steward](http://olympiawa.gov/city-services/parks/park-stewardship)
 * Assist with the [Capitol City Marathon](http://capitalcitymarathon.org/)
 * Adopt-a-Storm-Drain by keeping your closest storm drain free of debris
