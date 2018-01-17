@@ -10,14 +10,14 @@ To participate, simply place food donations in a green bag on your front porch o
 Want to participate **even more**? You can come meet your neighbors and sort out food at Pioneer Middle School on the pick up dates between 10am-12pm. 
 
 <img style="float: right;" src="/public/foodbank.png" alt="Thurston County Food Project">
-<h2 style="text-align: center;">2017 Pick Up Dates</h2>
+<h2 style="text-align: center;">2018 Pick Up Dates</h2>
 <h3 style="text-align: center;">
-Feb 11<br>
-Apr 8<br>
-Jun 10<br>
-Aug 12<br>
-Oct 14<br>
-Dec 9
+Feb 10<br>
+<br>
+<br>
+<br>
+<br>
+
 </h3>
 
 Thanks to the residents of CRANA, the April food drive brought in **$5,620** worth of food! Combined with the other neighborhoods there was $10,904 worth of food donated on that day. Thank you to everyone who made that possible!

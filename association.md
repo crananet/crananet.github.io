@@ -8,7 +8,7 @@ The Association was established in 1991 and is a [Recognized Neighborhood Associ
 
 <a href="/public/docs/CRANA Bylaws Amended 2005.pdf">Association bylaws</a>
 
-Meetings are held annually in January.
+Annual meetings are held annually in January or February.
 
 ### Quick Stats
 

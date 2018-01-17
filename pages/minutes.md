@@ -22,6 +22,7 @@ Cindi Brigden
 
 ### Meeting Minutes
 
+* [2017 11/14 CRANA Meeting Minutes Board](/public/docs/CRANA Meeting Minutes 2017_1114 Board.docx)
 * [2017 08/22 CRANA Meeting Minutes Board](/public/docs/CRANA Meeting Minutes 2017_0822 Board.docx)
 * [2017 03/20 CRANA Meeting Minutes Board](/public/docs/CRANA Meeting Minutes 2017_0320 Board.docx)
 * [2017 01/28 CRANA Meeting Minutes Annual](/public/docs/CRANA Meeting Minutes 2017_0128 Annual.docx)
