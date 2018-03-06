@@ -6,22 +6,29 @@ category: association
 
 ### Board Members
 
-President: <a href='m&#97;i&#108;to&#58;dpan%74%65l%6&#57;s&#37;32&#55;&#64;&#103;&#109;&#37;&#54;1%6&#57;l&#46;%63om'>De&#110;&#105;&#115;e&#32;&#80;&#97;nte&#108;is</a><br>
-Vice-President: <a href='&#109;ail&#116;o&#58;ca&#114;y&#115;&#98;%6&#70;&#97;&#37;7&#52;&#64;g&#109;a&#105;l&#46;com'>Ca&#114;y R&#101;&#116;l&#105;&#110;</a><br>
-Treasurer: <a href='&#109;&#97;ilto&#58;&#115;%69mon&#101;m&#99;gu%6&#57;re&#37;40y&#97;%&#54;8o&#37;6F&#46;&#99;om'>&#83;imo&#110;&#101; G&#114;&#97;n&#116;</a><br>
-Secretary: <a href='mailto&#58;re&#111;ly%6Dpia&#64;&#112;r&#111;ton&#109;ail&#46;co%6D'>&#82;ic&#104;ee Jes&#107;y</a>    
+President: Denise Pantelis<br>
+Vice-President: Cary Retlin<br>
+Treasurer: Simone Grant<br>
+Secretary: Richee Jesky<br>
        
+Contact the CRANA Board: <a href='&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#114;&#97;&#110;&#97;&#46;&#111;&#108;&#121;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'>&#99;&#114;&#97;&#110;&#97;&#46;&#111;&#108;&#121;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>
+
+
+
+
 #### At-large Members
 
-Pam Smith<br>
 Mark Dahlen<br>
 Irene Lewis<br>
 MaryBeth Cline<br>
 Karl Kirker<br>
-Cindi Brigden
+Cindi Brigden<br>
+Yona Makowski<br>
+Eric Nelson
 
 ### Meeting Minutes
 
+* [2018 02/10 CRANA Meeting Minutes Annual](/public/docs/CRANA Meeting Minutes 2018_0210 Annual.docx)
 * [2017 11/14 CRANA Meeting Minutes Board](/public/docs/CRANA Meeting Minutes 2017_1114 Board.docx)
 * [2017 08/22 CRANA Meeting Minutes Board](/public/docs/CRANA Meeting Minutes 2017_0822 Board.docx)
 * [2017 03/20 CRANA Meeting Minutes Board](/public/docs/CRANA Meeting Minutes 2017_0320 Board.docx)

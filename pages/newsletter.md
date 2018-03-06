@@ -3,4 +3,5 @@ layout: page
 title: Newsletter
 category: association
 ---
-Coming soon.
+
+* [2018 Winter CRANA Newsletter](/public/docs/2018 Winter  CRANA Newsletter FINAL.pdf)
